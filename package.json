@@ -1,6 +1,6 @@
 {
   "name": "adonis-ally-epic-games",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "EpicGames ally driver for AdonisJS ally",
   "main": "build/providers/index.js",
   "files": [
